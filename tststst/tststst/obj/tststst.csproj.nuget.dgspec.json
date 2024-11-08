@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Мои Документы\\Мои документы\\GitHub\\ToDoList\\tststst\\tststst\\tststst.csproj": {}
+  },
+  "projects": {
+    "d:\\Мои Документы\\Мои документы\\GitHub\\ToDoList\\tststst\\tststst\\tststst.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Мои Документы\\Мои документы\\GitHub\\ToDoList\\tststst\\tststst\\tststst.csproj",
+        "projectName": "tststst",
+        "projectPath": "d:\\Мои Документы\\Мои документы\\GitHub\\ToDoList\\tststst\\tststst\\tststst.csproj",
+        "packagesPath": "C:\\Users\\Соня\\.nuget\\packages\\",
+        "outputPath": "d:\\Мои Документы\\Мои документы\\GitHub\\ToDoList\\tststst\\tststst\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Соня\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

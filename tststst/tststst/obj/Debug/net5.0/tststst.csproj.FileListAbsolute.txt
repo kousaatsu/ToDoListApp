@@ -1,0 +1,32 @@
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\bin\Debug\net5.0\tststst.exe
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\bin\Debug\net5.0\tststst.deps.json
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\bin\Debug\net5.0\tststst.runtimeconfig.json
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\bin\Debug\net5.0\tststst.runtimeconfig.dev.json
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\bin\Debug\net5.0\tststst.dll
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\bin\Debug\net5.0\tststst.pdb
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.csproj.AssemblyReference.cache
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.AssemblyInfoInputs.cache
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.AssemblyInfo.cs
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.csproj.CoreCompileInputs.cache
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.dll
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\ref\tststst.dll
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.pdb
+D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\tststst.genruntimeconfig.cache
+d:\Мои Документы\Мои документы\Visual Studio 2015\Projects\tststst\tststst\obj\Debug\net5.0\refint\tststst.dll
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\bin\Debug\net5.0\tststst.exe
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\bin\Debug\net5.0\tststst.deps.json
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\bin\Debug\net5.0\tststst.runtimeconfig.json
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\bin\Debug\net5.0\tststst.runtimeconfig.dev.json
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\bin\Debug\net5.0\tststst.dll
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\bin\Debug\net5.0\tststst.pdb
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.csproj.AssemblyReference.cache
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.GeneratedMSBuildEditorConfig.editorconfig
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.AssemblyInfoInputs.cache
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.AssemblyInfo.cs
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.csproj.CoreCompileInputs.cache
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.dll
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\refint\tststst.dll
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.pdb
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\tststst.genruntimeconfig.cache
+d:\Мои Документы\Мои документы\GitHub\ToDoList\tststst\tststst\obj\Debug\net5.0\ref\tststst.dll
